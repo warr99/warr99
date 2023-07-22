@@ -16,8 +16,14 @@ Here are some ideas to get you started:
 - [![warr99's GitHub stats](https://github-readme-stats.vercel.app/api?username=warr99)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 -->
 
-<div align="center">
-  
-</div>
+# Welcome to My GitHub Profile!
+
+Hello! I'm XrChen, a student from China.
+
+- 🌱 I’m currently learning to make an operating system kernel like linux 0.11.
+- 📫 How to reach me: warrior22@qq.com.
+- 💬 Welcome to follow my blog: https://juejin.cn/user/3391340636015214
+
+Feel free to explore my repositories and don't forget to give them a ⭐️ if you find them interesting!
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=warr99&theme=graywhite&hide_border=true&locale=zh_Hans&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
