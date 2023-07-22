@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-[![warr99's GitHub stats](https://github-readme-stats.vercel.app/api?username=warr99)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+
+- [![warr99's GitHub stats](https://github-readme-stats.vercel.app/api?username=warr99)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=warr99&theme=dark&hide_border=%E7%9C%9F)](https://git.io/streak-stats)
