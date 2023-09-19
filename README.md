@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 # Welcome to My GitHub Profile!
 
-Hello! I'm XrChen, a student from China.
+Hello! I'm ChenXr, a student from China.
 
-- 🌱 I’m currently learning to make an operating system kernel like linux 0.11.
+- 🌱 I’m currently learning about database kernel.
 - 📫 How to reach me: warrior22@qq.com.
 - 💬 Welcome to follow my blog: https://juejin.cn/user/3391340636015214
 
