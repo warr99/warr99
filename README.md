@@ -1,6 +1,5 @@
 <!--
 **warr99/warr99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -26,4 +25,5 @@ Hello! I'm ChenXr, a student from China.
 
 Feel free to explore my repositories and don't forget to give them a ⭐️ if you find them interesting!
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=warr99&theme=graywhite&hide_border=true&locale=zh_Hans&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=warr99&theme=github-dark-blue&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
