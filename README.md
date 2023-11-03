@@ -10,23 +10,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-- [![warr99's GitHub stats](https://github-readme-stats.vercel.app/api?username=warr99)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=warr99&theme=github-dark-blue&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
--->
-
 # Welcome to My GitHub Profile!
 
 Hello! I'm ChenXr, a student from China.
 
-- 🌱 I’m currently learning about database kernel.
+- 🌱 I’m currently learning about database kernel - miniob.
 - 📫 How to reach me: warrior22@qq.com.
 - 💬 Welcome to follow my blog: https://juejin.cn/user/3391340636015214
 
 Feel free to explore my repositories and don't forget to give them a ⭐️ if you find them interesting!
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=warr99&theme=github-dark-dimmed&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
-
