@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Hello! I'm ChenXr, a student from China.
 
-- 🌱 Currently, I am contributing to [AutoMQ](https://github.com/AutoMQ/automq).
+- 🌱 Currently, I'm preparing for my Autumn Campus Recruitment interviews.
 - 📫 How to reach me: warrior22@qq.com.
 - 💬 Welcome to follow my blog: https://juejin.cn/user/3391340636015214
 
