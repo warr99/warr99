@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Hello! I'm ChenXr, a student from China.
 
-- 🌱 Currently, I'm preparing for my Autumn Campus Recruitment interviews.
+- 🌱 Currently, I am learning **rust** and preparing to complete this course: [mini-lsm](https://skyzh.github.io/mini-lsm/)
 - 📫 How to reach me: warrior22@qq.com.
 - 💬 Welcome to follow my blog: https://juejin.cn/user/3391340636015214
 
