@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 --> 
 # Welcome to My GitHub Profile!
 
-Hello! I'm ChenXr, a student from China.
+Hello! I'm Chen Xiran, a student from China.
 
 - 🌱 Currently, I am learning **rust** and preparing to complete this course: [mini-lsm](https://skyzh.github.io/mini-lsm/)
 - 📫 How to reach me: warrior22@qq.com.
